@@ -1,189 +1,139 @@
-a<div align="center">
+<div align="center">
 
-<!-- Animated dark techy header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Min%20Phone%20Maw&fontSize=48&fontColor=00f5ff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,20&height=160&section=header&text=MIN%20PHONE%20MAW&fontSize=40&fontColor=39ff14&animation=blinking&fontAlignY=50&desc=he%2Fhim%20%7C%20Software%20Engineer%20%7C%20SUNY%20Oswego&descAlignY=75&descSize=14&descColor=888888" width="100%"/>
 
-<!-- Typing animation -->
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE...                                   ║
+║  > LOADING MIN_PHONE_MAW.exe                                 ║
+║  > STATUS: ONLINE ██████████████████████████████ 100%       ║
+║  > MISSION: Graduate Dec 2026 | Build. Break. Repeat.        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+SUNY+Oswego+%F0%9F%8E%93;Full+Stack+%7C+Systems+%7C+Low-Level+Dev+%E2%9A%99%EF%B8%8F;He%2FHim+%7C+Graduating+Dec+2026+%F0%9F%9A%80;Dota+Player+%F0%9F%8E%AE+%7C+Science+Explorer+%F0%9F%94%AC;Code+Hard%2C+Play+Harder+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=800&color=39FF14&background=0D110000&center=true&vCenter=true&width=600&lines=_%3E+whoami+%3A+Software+Engineer+%40+SUNY+Oswego;_%3E+stack+%3A+Assembly+to+Next.js+%E2%80%94+all+layers;_%3E+hobby+%3A+Dota2+player+%7C+Science+nerd;_%3E+status+%3A+Graduating+Dec+2026+%F0%9F%8E%93;_%3E+mode+%3A+Build.+Break.+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status badges -->
-<img src="https://img.shields.io/badge/Pronouns-He%2FHim-00f5ff?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Building%20Something%20Cool-00ff88?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Graduating-Dec%202026-f97316?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-a855f7?style=flat-square&labelColor=0d1117"/>
-
-<br/><br/>
-
-<!-- Animated snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-</picture>
+![he/him](https://img.shields.io/badge/%3E_pronouns-he%2Fhim-39ff14?style=flat-square&labelColor=0d1117&color=39ff14)
+![SE](https://img.shields.io/badge/%3E_major-Software_Engineering-00bfff?style=flat-square&labelColor=0d1117)
+![Oswego](https://img.shields.io/badge/%3E_school-SUNY_Oswego-ff6b35?style=flat-square&labelColor=0d1117)
+![Dec 2026](https://img.shields.io/badge/%3E_graduating-Dec_2026-bf5fff?style=flat-square&labelColor=0d1117)
 
 <br/>
 
-<!-- Contact button -->
-<a href="mailto:minphone782017@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-minphone782017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
+[![Email](https://img.shields.io/badge/_%3E_minphone782017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minphone782017@gmail.com)
 
 </div>
 
 ---
 
-## 👾 About Me
+## `> cat about_me.txt`
+
+I'm an engineer who operates at **every level of the stack** — from writing raw machine instructions in Assembly to shipping full-stack web apps with Next.js and Node. I don't just use tools, I want to know how they work at the deepest level.
+
+Software engineering to me is **problem solving under constraints** — the same reason I love Dota 2. Every game is a complex system. Every bug is a puzzle. Every deployment is a win.
+
+```
+STRENGTHS ──────────────────────────────────────────────────
+  ✦ Systems thinker — I see the full picture, not just my slice
+  ✦ Low-level curious — Assembly is genuinely fun to me
+  ✦ Full-stack capable — frontend to kernel, I go where the problem is
+  ✦ Collaborative — built for team environments (thanks Dota 2)
+  ✦ Relentless debugger — I don't stop until it's fixed
+
+OUTSIDE THE IDE ─────────────────────────────────────────────
+  🎮  Dota 2 — ranked, strategic, high-stakes
+  🔬  Science — physics, cosmology, how reality actually works
+  🤝  Friends — because life isn't just commits
+```
+
+---
+
+## `> ls tech/`
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🖥️ `frontend/`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black)
+
+  </td>
+  <td valign="top" width="50%">
+
+### ⚙️ `backend_and_systems/`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## `> git log --oneline --graph`
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=888888"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=888888"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=39ff14&fire=ff6b35&currStreakLabel=39ff14" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## `> ping current_status`
 
 ```bash
-$ whoami
-```
+$ currently_working_on:
+  ├── 🔨  Full-stack apps with Next.js + Node.js
+  ├── 📖  OS internals, compilers & system design
+  ├── 🏁  Grinding toward graduation (Dec 2026)
+  └── 🚀  Hunting for software engineering opportunities
 
-Hey, I'm **Min** (he/him) — a Software Engineering senior at **SUNY Oswego**, graduating **December 2026** 🎓.
-
-I'm the kind of engineer who wants to understand *everything* — how the CPU executes a single instruction, how a React component re-renders, how a Node server handles thousands of requests. I build at every layer of the stack, from raw **Assembly & C** all the way up to sleek **Next.js** frontends.
-
-I care about writing clean, efficient, and purposeful code. Whether it's a systems-level program or a full-stack web app, I bring the same attention to detail and engineering mindset to everything I touch.
-
-When I'm not pushing code, you'll find me:
-- 🎮 **Grinding Dota 2** — strategy, teamwork, high pressure — just like software engineering
-- 🔬 **Exploring science** — physics, space, and how the universe actually works at a fundamental level
-- 🤝 **Hanging out with friends** — good vibes only
-
----
-
-## 🛠️ Tech Arsenal
-
-### 🎨 Frontend
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-
-### ⚙️ Backend & Systems
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🌌 System Profile
-
-```json
-{
-  "name"        : "Min Phone Maw",
-  "alias"       : "Min",
-  "pronouns"    : "he/him",
-  "school"      : "SUNY Oswego — Software Engineering",
-  "graduating"  : "December 2026",
-  "stack"       : {
-    "frontend"  : ["HTML5", "React", "Next.js"],
-    "backend"   : ["Node.js", "Python", "Java", "C", "Assembly"]
-  },
-  "strengths"   : ["Systems Thinking", "Full Stack Dev", "Low-Level Programming"],
-  "interests"   : ["Software Architecture", "Performance Optimization", "Open Source"],
-  "off_duty"    : ["Dota 2 🎮", "Science 🔬", "Friends 🤝"],
-  "fun_fact"    : "I can write Assembly AND build a Next.js app 🤯",
-  "current_op"  : "Building cool stuff & preparing to ship 🚀"
-}
+$ fun_fact --verbose:
+  One of the rare humans who writes Assembly for fun
+  AND can ship a production Next.js app by Friday.
 ```
 
 ---
 
-## ⚡ What I'm Currently Up To
-
-- 🔨 Building full-stack projects with **Next.js & Node.js**
-- 📚 Deepening knowledge in **software architecture & system design**
-- 🎯 Preparing for **graduation in December 2026**
-- 🌐 Looking for **software engineering opportunities**
-- 🧠 Always learning — currently exploring **OS concepts & compilers**
-
----
-
-## 🎮 Fun Facts About Me
-
-- 🕹️ Dota 2 taught me more about **strategy & decision-making under pressure** than any class ever could
-- 🔭 I genuinely think about **how the universe works** in my free time — physics is just code the universe runs on
-- ⚙️ One of the few people who finds **Assembly language** actually satisfying to write
-- 🌏 Born curious — I love diving deep into how *anything* works, from compilers to black holes
-- 💡 My debugging style: **systematic, patient, relentless**
-
----
-
-## 📬 Reach Me
+## `> ssh contact@minphonemaw`
 
 <div align="center">
 
-<a href="mailto:minphone782017@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
+[![Email](https://img.shields.io/badge/SEND_A_MESSAGE-minphone782017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minphone782017@gmail.com)
 
 <br/><br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,20&height=100&section=footer&fontColor=39ff14&animation=blinking" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00f5ff&style=flat" alt="profile views"/>
-  <br/>
-  <i>⚡ Thanks for stopping by — go check out my projects! ⚡</i>
+
+`> profile_views:`
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=visitors&color=39ff14&style=flat-square)
+
+`> EOF — thanks for reading the source code of my life.`
+
 </div>
